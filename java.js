@@ -108,6 +108,11 @@ function f2() {
 
     */
 
+
+    /*
+    Add some comments
+    */
+
     if (num == prNum) {
         out.innerHTML = 'Ai ghicit!!!';
     }
